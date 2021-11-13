@@ -15,7 +15,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 private const val TAG = "MainActivity"
 private const val BASE_URL = "https://api.yelp.com/v3/"
-private const val API_KEY = "_4Fw8BhV0EymMt2jH6NbVFXW9K4mO79OCFeaN7ux83lWmFX7rD1wfiIorGuxFAnETLF6ds2ORWY-pJgPLaPPZcfqBMW5N_f1S7Vb5i9qJOGLaJ5ssPcIWN0PUSmQYXYx"
+private const val API_KEY = "API KEY HERE"
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
